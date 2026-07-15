@@ -1,16 +1,59 @@
-# React + Vite
+# Frontend Assignment - The Interview Kit Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+This project is a frontend implementation created as part of the **Percipience Labs Senior Frontend Developer Assignment**.
 
-Currently, two official plugins are available:
+The application is built using **React**, **TypeScript**, **Vite**, and **Tailwind CSS**, with a focus on clean component architecture, responsive design, and reusable UI components.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Live Demo
 
-## React Compiler
+**Vercel Deployment:**  
+https://project-indol-psi-87.vercel.app/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the Oxlint configuration
+- React 18
+- TypeScript
+- Vite
+- Tailwind CSS
+- Functional Components
+- React Hooks
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+
+## Assumptions Made
+
+- The project is based on the provided design reference.
+- The primary focus was on creating a responsive and reusable UI.
+- The implementation follows a component-based architecture using React and TypeScript.
+- Static content was used where no backend or API requirements were specified in the assignment.
+
+## Additional Improvements
+
+Given more time, the following enhancements could be added:
+
+- Dark mode support
+- Better animations and transitions
+- Accessibility (ARIA) improvements
+- Unit testing using React Testing Library
+- Performance optimizations (lazy loading, code splitting)
+- SEO improvements
+
+## Project Structure
+
+```
+src/
+├── assets/
+├── components/
+├── pages/
+├── App.tsx
+└── main.tsx
+```
+
+## Author
+
+**Arif Khan**
+
+Frontend Developer
+
+## Live Project
+
+https://project-indol-psi-87.vercel.app/
