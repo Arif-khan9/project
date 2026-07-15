@@ -26,16 +26,7 @@ https://project-indol-psi-87.vercel.app/
 - The implementation follows a component-based architecture using React and TypeScript.
 - Static content was used where no backend or API requirements were specified in the assignment.
 
-## Additional Improvements
 
-Given more time, the following enhancements could be added:
-
-- Dark mode support
-- Better animations and transitions
-- Accessibility (ARIA) improvements
-- Unit testing using React Testing Library
-- Performance optimizations (lazy loading, code splitting)
-- SEO improvements
 
 ## Project Structure
 
@@ -54,6 +45,3 @@ src/
 
 Frontend Developer
 
-## Live Project
-
-https://project-indol-psi-87.vercel.app/
