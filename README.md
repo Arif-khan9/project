@@ -1,7 +1,3 @@
-[15/07/26, 6:45:18 PM] Ayan M: ok, check krke bhej deta hu
-[15/07/26, 6:45:33 PM] Arif😊: Ok
-[15/07/26, 7:24:22 PM] Arif😊: Pura de do na ak bar hi usko hta kr dal deta hu
-[15/07/26, 7:30:36 PM] Ayan M: # Frontend Assignment -- The Interview Kit Clone
 
 This project is a frontend implementation created as part of the
 *Percipience Labs Senior Frontend Developer Assignment*.
